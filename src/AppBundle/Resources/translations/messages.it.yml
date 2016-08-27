@@ -1,58 +1,58 @@
-slogan: Deckbuilder for A Game of Thrones LCG 2nd Edition
+slogan: Deckbuilder per Il Trono di Spade LCG 2ª Edizione
 
-data_load_fail: "Unable to load the data. Click <a href='javascript:window.location.reload(true)'>here</a> to reload your page."
-login_required: You must be logged in for this operation.
+data_load_fail: "Impossibile caricare i dati. Clicca <a href='javascript:window.location.reload(true)'>qui</a> per ricaricare la pagina."
+login_required: Effettua il Log In per completare l'operazione.
 
-userby: by %user%
+userby: per %user%
 seemore:
-  faction: More in this faction
-noimage: No image
+  faction: 
+noimage: Senza immagine
 
 nav:
-  mydecks: My decks
-  decklists: Decklists
-  cards: Cards
-  rules: Rules
-  advancedsearch: Advanced Search
-  cardsearch: Card Search
+  mydecks: I miei mazzi
+  decklists: Lista
+  cards: Carte
+  rules: Regole
+  advancedsearch: Ricerca avanzata
+  cardsearch: Ricerca carta
   user:
-    loginregister: Login or register
-    editaccount: Edit account
-    profile: Public profile
+    loginregister: Login o Iscriviti
+    editaccount: Modifica account
+    profile: Profilo pubblico
     logout: Logout
 
 forms:
-  save: Save
-  edit: Edit
-  publish: Publish
-  delete: Delete
-  cancel: Cancel
-  add: Add
-  remove: Remove
-  import: Import
-  upload: Upload
+  save: Salva
+  edit: Modifica
+  publish: Pubblica
+  delete: Cancella
+  cancel: Annulla
+  add: Aggiungi
+  remove: Rimuovi
+  import: Importa
+  upload: Carica
   reset: Reset
-  copy: Copy
-  clone: Clone
-  close: Close
-  print: Print
-  download: Download
-  search: Search
+  copy: Copia
+  clone: Clona
+  close: Chiudi
+  print: Stampa
+  download: Scarica
+  search: Cerca
 
 decks:
-  privatedecks: My private decks
-  slotcount: "(%current%/%max% slots)"
-  version: Version %version%
-  description: Description
-  defaultemptydesc: "*No description.*"
+  privatedecks: I miei mazzi privati
+  slotcount: "(%current%/%max% spazi)"
+  version: Versione %version%
+  description: Descrizione
+  defaultemptydesc: "*Nessuna descrizione.*"
   problems:
-    too_many_plots: Contains too many Plots
-    too_few_plots: Contains too few Plots
-    too_many_different_plots: Contains more than one duplicated Plot
-    too_many_agendas: Contains more than one Agenda
-    too_few_cards: Contains too few cards
-    too_many_copies: Contains too many copies of a card (by title)
-    invalid_cards: Contains forbidden cards (cards no permitted by Faction or Agenda)
+    too_many_plots: Contiene troppe carte Trama
+    too_few_plots: Contiene troppo poche carte Trama
+    too_many_different_plots: Contiene più di una carta Trama duplicata
+    too_many_agendas: Contiene più di un'Agenda
+    too_few_cards: Contiente troppo poche carte
+    too_many_copies: Contiene troppe copie di una carta (per titolo)
+    invalid_cards: Contiene carte proibite (carte non permesse da Fazione o Agenda)
     agenda: Doesn't comply with the Agenda conditions
   build:
     choose:
